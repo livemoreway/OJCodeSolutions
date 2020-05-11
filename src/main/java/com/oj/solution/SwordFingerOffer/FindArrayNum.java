@@ -1,4 +1,4 @@
-package com.oj.solution.eazy;
+package com.oj.solution.SwordFingerOffer;
 
 /**
  * Author: zz
